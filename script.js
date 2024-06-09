@@ -1,3 +1,5 @@
+import { document } from 'some-library';
+
 document.addEventListener('DOMContentLoaded', () => {
     const images = [
         'images/image1.jpg',
