@@ -10,7 +10,7 @@ This is a simple web application that rotates through a set of images stored in 
 
 ## Folder Structure
 
-/your-project-folder
+/DRIP
     /images
         image1.jpg
         image2.jpg
@@ -25,7 +25,7 @@ This is a simple web application that rotates through a set of images stored in 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/image-rotator.git
+    git clone https://github.com/gogorichie/image-rotator.git
     cd image-rotator
     ```
 
@@ -66,13 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to improve the project.
 
-## Acknowledgments
-
-- Inspired by the need for a simple image rotation feature in web applications.
-
 ## Contact
 
 Created by [Richard Lewis](https://github.comgogorichie) - feel free to contact me!
-
-
-
