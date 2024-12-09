@@ -68,4 +68,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Contact
 
-Created by [Richard Lewis](https://github.comgogorichie) - feel free to contact me!
+Created by [Richard Lewis](https://github.com/gogorichie) - feel free to contact me!
