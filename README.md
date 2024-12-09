@@ -1,4 +1,4 @@
-# Display Rotation Image Project
+# Display Rotatating Image Project
 
 This is a simple web application that rotates through a set of images stored in a folder. The app is built using HTML, CSS, and JavaScript.
 
